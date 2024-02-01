@@ -16,7 +16,7 @@ export const bgColors = [
 },
 {   
     'id':'10004',
-    'name': 'samrock',
+    'name': 'Samrock',
     'hex': '#009E60'
 },
 {   
